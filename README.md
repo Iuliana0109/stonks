@@ -1,4 +1,4 @@
-# Stocks app
+# Stonks app
 A simple app where you can make stock trades
 
 ### Build Setup
