@@ -1,5 +1,6 @@
-# Stonks app
-A simple app where you can make stock trades
+# Stonks
+
+A simple Vue app for stocks trading
 
 ### Build Setup
 
